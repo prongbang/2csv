@@ -1,0 +1,15 @@
+{
+    "name": "2csv",
+    "version": "1.0.0",
+    "main": "index.js",
+    "displayName": "JavaScript Export to CSV file",
+    "author": "prongbang",
+    "keywords": [
+        "2csv",
+        "export to csv"
+    ],
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
+    "license": "MIT"
+}
